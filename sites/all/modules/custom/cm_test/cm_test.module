@@ -9,3 +9,6 @@
 # feature branch was merged to develop after this commit, with fast forward
 #
 # dev 006 - new feature branch created and this line added
+#
+# dev 007 - test line test line test line
+# feature branch merged after this commit, WITHOUT fast forward
